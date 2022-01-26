@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "http-server": "^14.1.0"
+  },
+  "name": "app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luciana-Calvi/argPrograma-angular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luciana-Calvi/argPrograma-angular/issues"
+  },
+  "homepage": "https://github.com/Luciana-Calvi/argPrograma-angular#readme",
+  "description": ""
+}
